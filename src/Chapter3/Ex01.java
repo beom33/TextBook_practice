@@ -8,7 +8,7 @@ public class Ex01 {
         int totalScore = mathScore + engScore ; // 총점 구하기
         System.out.println(totalScore);
 
-        double avgScore = totalScore / 5.0; // 평균 구하기, avgScore 는 평균 점수 의미
+        double avgScore = totalScore / 6.0; // 평균 구하기, avgScore 는 평균 점수 의미
         System.out.println(avgScore);
     }
  // 총점 557 , 평균 278.5
